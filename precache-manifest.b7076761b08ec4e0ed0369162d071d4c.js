@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "559c84d93987e39422c68f5511024728",
+    "revision": "89992df9b4ab094dccefef8b3dae7e20",
     "url": "/pokemon-swsh-livingdex/index.html"
   },
   {
-    "revision": "30ecda990858078717be",
-    "url": "/pokemon-swsh-livingdex/static/css/main.03141d8c.chunk.css"
+    "revision": "048cc498659d45a5d652",
+    "url": "/pokemon-swsh-livingdex/static/css/main.f18165d1.chunk.css"
   },
   {
     "revision": "8a6de2acf10a1df5970d",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pokemon-swsh-livingdex/static/js/2.54f24ff5.chunk.js.LICENSE"
   },
   {
-    "revision": "30ecda990858078717be",
-    "url": "/pokemon-swsh-livingdex/static/js/main.40c34182.chunk.js"
+    "revision": "048cc498659d45a5d652",
+    "url": "/pokemon-swsh-livingdex/static/js/main.af789701.chunk.js"
   },
   {
     "revision": "d7cb8525c968e77c91a6",

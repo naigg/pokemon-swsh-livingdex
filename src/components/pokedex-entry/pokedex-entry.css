@@ -32,8 +32,7 @@
 
 /* 3: number of items in the row */
 .pokedex-entry__item {
-  display: flex;
-  justify-content: center;
+  display: block;
   flex-basis: calc(95% / 3);
 }
 
